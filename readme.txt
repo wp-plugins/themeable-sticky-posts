@@ -1,6 +1,6 @@
 === Themeable Sticky Posts ===
 
-Contributors: Ben Huson
+Contributors: husobj
 Donate link: http://www.benhuson.co.uk/donate
 Tags: widgets, sticky, theme, posts, featured
 Requires at least: 3.0
